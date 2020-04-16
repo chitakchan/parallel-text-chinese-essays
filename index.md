@@ -9,3 +9,7 @@
   * a poem titled "The fondness with lotus" – Zhou DunYi (1017-1073)  
   
 4. Please give feedbacks or suggested translations and recommendations on future essays are welcome via [Github](chitakchan.github.io/parallel-Text-For-Chinese-Essays-With-English-Translations).  I can work on new parallel texts on favourable recommendations of new essays or translations.
+
+
+examples:
+  ![Beiying (Silhoutte)](images/silhouetteByZhuZiqingV200401.png)
