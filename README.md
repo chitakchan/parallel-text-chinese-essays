@@ -1,6 +1,4 @@
-# parallel-Text-For-Chinese-Essays-With-English-Translations
-Parallel Text For Chinese Essays With English Translations
-
+# parallel text chinese essays
 
 Purpose:  i) to build up a library of Chinese essays with English Translations for beginners to learn the language and at the same time appreciate some of the popular essays.  Invite improvements in translations from public.
 
