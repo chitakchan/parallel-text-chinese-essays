@@ -12,4 +12,4 @@
 
 
 examples:
-  ![Beiying (Silhoutte)](images/silhouetteByZhuZiqingV200401.png)
+  ![Beiying (Silhoutte)](images/silhouetteByZhuZiqingV200401P1_500x400.png)
